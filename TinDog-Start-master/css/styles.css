@@ -140,6 +140,17 @@ h2 {
 #title {
   text-align: center;
 }
+p {
+   font-size: 2rem;
+  }
+
+  h3 {
+  font-size: 2.5rem;
+}
+
+em {
+  font-size: 2rem;
+}
 }
 
 /* Call to Action */
